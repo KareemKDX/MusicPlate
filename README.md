@@ -2,6 +2,9 @@
 
 MusicPlate is a simplified music streaming service inspired around the bigger music streaming services we have today, built as a school project.
 
+# Live Demo
+https://musicplate-frontend.onrender.com/
+
 ## Features
 
 - Start page with a selection of songs that anyone can see without an account
@@ -18,7 +21,7 @@ MusicPlate is a simplified music streaming service inspired around the bigger mu
 - Backend: Node.js, Express, TypeScript
 - Database: PostgreSQL
 - Authentication: JWT and bcryptjs
-- Hosted on render
+- Deployed via render
 
 ## Getting started
 
